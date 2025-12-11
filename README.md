@@ -9,6 +9,9 @@ This project implements and compares Deep Learning architectures to automate the
 
 ## Repo Structure
 
+### Report
+* **`4105_FinalReport.pdf`**: The report we wrote for this project! 
+
 ### Data Directory
 * **`DDS/`**: Contains the full dataset of smear microscopy images.
   * **`NP/IMAGE/`**: Negative (Healthy) sample images.
