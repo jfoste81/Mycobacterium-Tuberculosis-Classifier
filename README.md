@@ -31,6 +31,8 @@ This project implements and compares Deep Learning architectures to automate the
 4. **`ResNet10.ipynb`**
    * **Purpose:** This notebook contains the optimized, reproducible run of the best-performing architecture (ResNet-10, Dropout 0.2) trained for 30 epochs with fixed random seeds.
 
+**PDF's of each notebook are available as well!**
+
 ## Dataset
 The dataset consists of **31,484** patches of smear microscopy images.
 * **Image Size:** 40x40 pixels (RGB)
